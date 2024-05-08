@@ -15,5 +15,6 @@ Este projeto foi desenvolvido na aula 01 da **Imersão Alura IA**, um evento da 
 **Desenvolvedor:** Caio Machado
 
 **Linkedin:** https://www.linkedin.com/in/caio-machado-dev/
+<br>
 **Email:** caio.machado.dev@gmail.com
 
